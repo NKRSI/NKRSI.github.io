@@ -2,7 +2,6 @@ source "https://rubygems.org"
 
 gem "jekyll", "~> 4.4"
 gem "jekyll-theme-yat"
-gem "jekyll-remote-theme"
 
 # This is what we need for your theme to work
 gem "jekyll-sass-converter", "~> 3.0"
