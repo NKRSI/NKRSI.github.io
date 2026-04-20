@@ -31,6 +31,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 facebook_username: nkrsi
 facebook_username: nkrsiuj
 github_username: NKRSI
+translate_langs: []
 
 # Build settings
 plugins:
