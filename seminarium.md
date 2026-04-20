@@ -14,7 +14,7 @@ Seminarium NKRSI to cykliczne spotkania, na których omawiamy aktualne tematy z 
 **Prelegent:** [Paweł Goliszewski](https://www.linkedin.com/in/pawel-goliszewski)\
 **Data:** 29.04.2026 (środa)\
 **Godzina:** 17:00\
-**Miejsce:** sala 1164, WMII UJ\
+**Miejsce:** sala 1164, WMII UJ
 
 Protokół MCP (Model Context Protocol) jest standardem używanym m. in. do integracji aplikacji z dużymi modelami językowymi. W trakcie wystąpienia zostaną zaprezentowane założenia MCP, przykłady aplikacji rozszerzających możliwości modelu językowego w oparciu o MCP, a także w jaki sposób integrują się ze środowiskami programistycznymi. Zostanie też pokazane, jak serwer MCP może wspomóc programowanie systemów wbudowanych.
 
