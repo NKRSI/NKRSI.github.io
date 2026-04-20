@@ -12,7 +12,9 @@ Seminarium NKRSI to cykliczne spotkania, na których omawiamy aktualne tematy z 
 
 ### Model Context Protocol w praktyce
 **Prelegent:** Paweł Goliszewski  
-**Data:** 29.05.2026, 17:00
+**Data:** 29.04.2026 (środa)
+**Godzina:** 17:00
+**Miejsce:** sala 1164, WMII UJ
 
 Protokół MCP (Model Context Protocol) jest standardem używanym m. in. do integracji aplikacji z dużymi modelami językowymi. W trakcie wystąpienia zostaną zaprezentowane założenia MCP, przykłady aplikacji rozszerzających możliwości modelu językowego w oparciu o MCP, a także w jaki sposób integrują się ze środowiskami programistycznymi. Zostanie też pokazane, jak serwer MCP może wspomóc programowanie systemów wbudowanych.
 
@@ -24,8 +26,9 @@ Protokół MCP (Model Context Protocol) jest standardem używanym m. in. do inte
 
 ### Praca w IT w Polsce i za granicą - różne ścieżki, różne doświadczenia
 **Prelegenci:** [Małgorzata Dymek-Jaremko](https://www.linkedin.com/in/malgorzata-dymek-jaremko/), [Hubert Dymek-Jaremko](https://www.linkedin.com/in/hubert-jaremko/)  
-**Data:** 15.05.2026  
+**Data:** 15.05.2026 (piątek)
 **Godzina:** zostanie ogłoszona
+**Miejsce:** sala 1164, WMII UJ
 
 Spotkanie będzie miało formę otwartej rozmowy o realiach pracy w branży technologicznej:
 - doświadczeniach pracy w dużej organizacji i w mniejszej firmie,
