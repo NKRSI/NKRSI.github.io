@@ -61,7 +61,6 @@ sass:
   implementation: sass-embedded
 
 header_pages:
-  - about.markdown
   - warsztaty.md
   - seminarium.md
 #   - index.html

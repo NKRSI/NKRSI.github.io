@@ -4,3 +4,23 @@
 
 layout: home
 ---
+
+# Naukowe Koło Robotyki i Sztucznej Inteligencji
+
+## Kim jesteśmy
+NKRSI to studenckie kolo naukowe Uniwersytetu Jagiellońskiego, które łączy robotykę, AI i praktyczne projekty inżynierskie.
+
+## Co robimy
+- budujemy i rozwijamy projekty techniczne od prototypu do wdrożenia
+- organizujemy warsztaty dla studentów zainteresowanych technologia
+- prowadzimy seminaria i spotkania merytoryczne
+- wspieramy start w konkursach, hackathonach i konferencjach
+
+## Dla kogo
+Zapraszamy osoby początkujące i zaawansowane. Jeśli chcesz się uczyć, tworzyć i pracować zespołowo, jesteś we właściwym miejscu.
+
+## Kontakt
+- Email: [nkrsi@uj.edu.pl](mailto:nkrsi@uj.edu.pl)
+- Facebook: [facebook.com/nkrsiuj](https://www.facebook.com/nkrsiuj)
+- GitHub: [github.com/NKRSI](https://github.com/NKRSI)
+
