@@ -76,4 +76,4 @@ defaults:
   home:
     heading: ""  # "Naukowe Koło Robotyki i Sztucznej Inteligencji"
     subheading: ""  # "Uniwersytetu Jagiellońskiego"
-    banner: "nkrsi.svg"
+    banner: "img/nkrsi.svg"

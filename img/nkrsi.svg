@@ -2,8 +2,8 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="1500"
-   height="1000"
+   width="3000"
+   height="1800"
    id="svg4794"
    version="1.1"
    inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
@@ -24,11 +24,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.53258384"
-     inkscape:cx="895.63363"
-     inkscape:cy="470.34848"
+     inkscape:zoom="0.26837233"
+     inkscape:cx="1430.848"
+     inkscape:cy="1272.4859"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g4832"
      showgrid="false"
      inkscape:window-width="2048"
      inkscape:window-height="1202"
@@ -59,15 +59,15 @@
        id="g4832"
        transform="matrix(0.25,0,0,0.25,489.52848,359.90455)">
       <rect
-         style="fill:#b3b3b3;stroke-width:4.58123"
+         style="fill:#b3b3b3;stroke-width:8.2785"
          id="rect1"
-         width="6594.2671"
-         height="4356.1216"
-         x="-2575.9199"
-         y="-1159.787" />
+         width="12451.801"
+         height="7533.0864"
+         x="-2443.0591"
+         y="-1165.1433" />
       <g
          id="g1"
-         transform="translate(1.9285279e-5,326.28673)">
+         transform="translate(3000,1926.2867)">
         <path
            sodipodi:nodetypes="csccsccssccccccsssssssscsscsscscsscsccccssscsssssssscscsccssscscssscscscscccsscsccsccccccccsccssccscscsssssscscsccscscscscssscssscscscccsscscssssscssscsscsscssccscscssssscssscsscssccsscscsscccsscscsssssssssscscccccccccccsssccccsssssscccccssscccccccscssccscscscscscscsssscssscssccssssccscssccccscccssssssscscscsssscscsscs"
            inkscape:connector-curvature="0"
