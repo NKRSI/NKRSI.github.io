@@ -70,6 +70,6 @@ header_pages:
 # Page default value
 defaults:
   home:
-    heading: "Naukowe Koło Robotyki i Sztucznej Inteligencji "
-    subheading: "Uniwersytetu Jagiellońskiego"
-    banner: "nkrsi.png"
+    heading: ""  # "Naukowe Koło Robotyki i Sztucznej Inteligencji"
+    subheading: ""  # "Uniwersytetu Jagiellońskiego"
+    banner: "nkrsi.svg"
