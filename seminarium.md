@@ -5,19 +5,36 @@ permalink: /seminarium/
 ---
 
 # Seminarium
+Seminarium NKRSI to cykliczne spotkania, na których omawiamy aktualne tematy z obszaru AI, robotyki i systemów autonomicznych.
 
 ## Najbliższe spotkanie
 
-### Model Context Protocol w praktyce
 
-**Prelegent:** Paweł Goliszewski
+### Model Context Protocol w praktyce
+**Prelegent:** Paweł Goliszewski  
+**Data:** 29.05.2026, 17:00
 
 Protokół MCP (Model Context Protocol) jest standardem używanym m. in. do integracji aplikacji z dużymi modelami językowymi. W trakcie wystąpienia zostaną zaprezentowane założenia MCP, przykłady aplikacji rozszerzających możliwości modelu językowego w oparciu o MCP, a także w jaki sposób integrują się ze środowiskami programistycznymi. Zostanie też pokazane, jak serwer MCP może wspomóc programowanie systemów wbudowanych.
 
 ![Plakat seminarium: Model Context Protocol w praktyce](/img/seminarium_model_context_protocol.png)
 
-## Cel seminarium
-Seminarium NKRSI to cykliczne spotkania, na których omawiamy aktualne tematy z obszaru AI, robotyki i systemów autonomicznych.
+---
+
+## Kolejne spotkanie
+
+### Praca w IT w Polsce i za granicą - różne ścieżki, różne doświadczenia
+**Prelegenci:** [Małgorzata Dymek-Jaremko](https://www.linkedin.com/in/malgorzata-dymek-jaremko/), [Hubert Dymek-Jaremko](https://www.linkedin.com/in/hubert-jaremko/)  
+**Data:** 15.05.2026  
+**Godzina:** zostanie ogłoszona
+
+Spotkanie będzie miało formę otwartej rozmowy o realiach pracy w branży technologicznej:
+- doświadczeniach pracy w dużej organizacji i w mniejszej firmie,
+- różnicach w codziennej pracy zespołów,
+- wnioskach związanych z emigracją i rozwojem kariery.
+
+Po części głównej planujemy czas na swobodną dyskusję i pytania uczestników.
+
+---
 
 ## Co się dzieje na spotkaniach
 - prezentacje członków kola i zaproszonych prelegentów,
