@@ -6,25 +6,24 @@ permalink: /seminarium/
 
 # Seminarium
 
-## Najblizsze spotkanie
+## Najbliższe spotkanie
 
 ### Model Context Protocol w praktyce
 
-**Prelegent:** Pawel Goliszewski
+**Prelegent:** Paweł Goliszewski
 
-Protokol MCP (Model Context Protocol) jest standardem uzywanym m.in. do integracji aplikacji z duzymi modelami jezykowymi. W trakcie wystapienia zostana zaprezentowane zalozenia MCP, przyklady aplikacji rozszerzajacych mozliwosci modelu jezykowego w oparciu o MCP, a takze sposob integracji ze srodowiskami programistycznymi. Zostanie tez pokazane, jak serwer MCP moze wspomoc programowanie systemow wbudowanych.
+Protokół MCP (Model Context Protocol) jest standardem używanym m. in. do integracji aplikacji z dużymi modelami językowymi. W trakcie wystąpienia zostaną zaprezentowane założenia MCP, przykłady aplikacji rozszerzających możliwości modelu językowego w oparciu o MCP, a także w jaki sposób integrują się ze środowiskami programistycznymi. Zostanie też pokazane, jak serwer MCP może wspomóc programowanie systemów wbudowanych.
 
 ![Plakat seminarium: Model Context Protocol w praktyce](/img/seminarium_model_context_protocol.png)
 
 ## Cel seminarium
-Seminarium NKRSi to cykliczne spotkania, na ktorych omawiamy aktualne tematy z obszaru AI, robotyki i systemow autonomicznych.
+Seminarium NKRSI to cykliczne spotkania, na których omawiamy aktualne tematy z obszaru AI, robotyki i systemów autonomicznych.
 
-## Co sie dzieje na spotkaniach
-- prezentacje czlonkow kola i zaproszonych prelegentow
-- przeglad publikacji naukowych i trendow rynkowych
-- dyskusje techniczne nad rozwiazaniami projektowymi
-- konsultacje pomyslow badawczych i konkursowych
+## Co się dzieje na spotkaniach
+- prezentacje członków kola i zaproszonych prelegentów,
+- przegląd publikacji naukowych i trendów rynkowych,
+- dyskusje techniczne nad rozwiązaniami projektowymi.
 
-## Dla uczestnikow
-Spotkania sa otwarte dla osob zainteresowanych rozwojem naukowym i technicznym, niezaleznie od poziomu zaawansowania.
+## Dla uczestników
+Spotkania są otwarte dla osób zainteresowanych rozwojem naukowym i technicznym, niezależnie od poziomu zaawansowania.
 
