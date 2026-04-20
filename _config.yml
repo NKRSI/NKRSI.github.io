@@ -63,6 +63,7 @@ sass:
   implementation: sass-embedded
 
 header_pages:
+  - projekty.md
   - warsztaty.md
   - seminarium.md
 #   - index.html
