@@ -62,6 +62,8 @@ sass:
 
 header_pages:
   - about.markdown
+  - warsztaty.md
+  - seminarium.md
 #   - index.html
 #   - archives.html
 #   - categories.html
