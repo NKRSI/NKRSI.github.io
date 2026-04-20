@@ -19,8 +19,21 @@ NKRSI to studenckie kolo naukowe Uniwersytetu Jagiellońskiego, które łączy r
 ## Dla kogo
 Zapraszamy osoby początkujące i zaawansowane. Jeśli chcesz się uczyć, tworzyć i pracować zespołowo, jesteś we właściwym miejscu.
 
-## Kontakt
+## Zarząd koła
+- Tomasz Dądela (prezes)
+- Konrad Masztalerz
+- Dominik Matuszek
+
+## Komisja rewizyjna:
+- Filip Manijak
+- Tomasz Kulis
+- Marcin Dąbrowski
+
+## Opiekun Koła
+dr hab. Przemysław Spurek, prof. UJ
+
+## Kontakt & Media
 - Email: [nkrsi@uj.edu.pl](mailto:nkrsi@uj.edu.pl)
 - Facebook: [facebook.com/nkrsiuj](https://www.facebook.com/nkrsiuj)
 - GitHub: [github.com/NKRSI](https://github.com/NKRSI)
-
+- LinkedIn: [linkedin.com/company/nkrsi](https://www.linkedin.com/company/nkrsi/)
