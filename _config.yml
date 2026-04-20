@@ -59,3 +59,17 @@ theme: jekyll-theme-yat
 sass:
   sass_dir: _sass
   implementation: sass-embedded
+
+header_pages:
+  - about.markdown
+#   - index.html
+#   - archives.html
+#   - categories.html
+#   - tags.html
+
+# Page default value
+defaults:
+  home:
+    heading: "Naukowe Koło Robotyki i Sztucznej Inteligencji "
+    subheading: "Uniwersytetu Jagiellońskiego"
+    banner: "nkrsi.png"
