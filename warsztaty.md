@@ -4,6 +4,7 @@ title: Warsztaty
 permalink: /warsztaty/
 ---
 
+![Plakat warsztaty](/img/warsztaty_ml.jpg)
 # Warsztaty
 
 ## O warsztatach
