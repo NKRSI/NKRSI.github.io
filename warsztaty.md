@@ -8,22 +8,31 @@ permalink: /warsztaty/
 
 ![Plakat warsztaty](/img/warsztaty_ml.jpg)
 
-## O warsztatach
-Warsztaty NKRSI to praktyczne zajęcia, podczas których uczestnicy realizują konkretne zadania techniczne krok po kroku.
+[//]: # (## O warsztatach)
 
-## Zakres tematyczny
-- podstawy robotyki i elektroniki
-- programowanie mikro kontrolerów
-- Python i narzędzia AI
-- praca z danymi i wizualizacja wyników
-- workflow projektowy: Git, code review, testy
+[//]: # (Warsztaty NKRSI to praktyczne zajęcia, podczas których uczestnicy realizują konkretne zadania techniczne krok po kroku.)
 
-## Forma
-- krótkie wprowadzenie teoretyczne
-- praca na przygotowanych stanowiskach
-- zadania realizowane indywidualnie i zespołowo
-- sesja pytań i odpowiedzi po każdych zajęciach
+[//]: # ()
+[//]: # (## Zakres tematyczny)
 
-## Jak dołączyć
-Aktualne terminy i zapisy publikujemy na naszych kanałach komunikacji.
+[//]: # (- podstawy robotyki i elektroniki)
 
+[//]: # (- programowanie mikro kontrolerów)
+
+[//]: # (- Python i narzędzia AI)
+
+[//]: # (- praca z danymi i wizualizacja wyników)
+
+[//]: # (- workflow projektowy: Git, code review, testy)
+
+## Harmonogram
+Cztery spotkania warsztatowe:
+- 05.05.2026, 16:30 (wtorek)
+- 06.05.2026, 16:30 (środa)
+- 12.05.2026, 16:30 (wtorek, wstępny termin)
+- 13.05.2026, 16:30 (środa, wstępny termin)
+Prezentacje wybranych projektów: TBA.
+
+## Miejsce
+[Wydział Matematyki i Informatyki Uniwersytetu Jagiellońskiego](https://maps.app.goo.gl/kyJnv3GjxGEu9CCm6)
+[Siedziba NKRSI – Sala 1164](https://intra.matinf.uj.edu.pl/plan/)
