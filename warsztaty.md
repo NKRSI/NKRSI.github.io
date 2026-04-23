@@ -3,9 +3,10 @@ layout: default
 title: Warsztaty
 permalink: /warsztaty/
 ---
+# Warsztaty
+### Zapisy trwają! [Wypełnij formularz zgłoszeniowy](https://forms.gle/sx4b7nyDvVAsRhaa8)
 
 ![Plakat warsztaty](/img/warsztaty_ml.jpg)
-# Warsztaty
 
 ## O warsztatach
 Warsztaty NKRSI to praktyczne zajęcia, podczas których uczestnicy realizują konkretne zadania techniczne krok po kroku.
