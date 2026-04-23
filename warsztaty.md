@@ -27,12 +27,15 @@ permalink: /warsztaty/
 
 ## Harmonogram
 Cztery spotkania warsztatowe:
-- 05.05.2026, 16:30 (wtorek)
-- 06.05.2026, 16:30 (środa)
-- 12.05.2026, 16:30 (wtorek, wstępny termin)
-- 13.05.2026, 16:30 (środa, wstępny termin)
+- 05.05.2026, 16:15 (wtorek)
+- 06.05.2026, 16:15 (środa)
+- 12.05.2026, 16:15 (wtorek, wstępny termin)
+- 13.05.2026, 16:15 (środa, wstępny termin)\
 Prezentacje wybranych projektów: TBA.
 
 ## Miejsce
-[Wydział Matematyki i Informatyki Uniwersytetu Jagiellońskiego](https://maps.app.goo.gl/kyJnv3GjxGEu9CCm6)
-[Siedziba NKRSI – Sala 1164](https://intra.matinf.uj.edu.pl/plan/)
+[Wydział Matematyki i Informatyki Uniwersytetu Jagiellońskiego](https://maps.app.goo.gl/kyJnv3GjxGEu9CCm6)\
+[Siedziba NKRSI – Sala 1164](https://intra.matinf.uj.edu.pl/plan/)\
+Oraz zdalna transmisja.
+
+# Dokładny zakres tematyczny i więcej szczegółów wkrótce.
