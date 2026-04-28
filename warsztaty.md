@@ -38,4 +38,11 @@ Prezentacje wybranych projektów: TBA.
 [Siedziba NKRSI – Sala 1164](https://intra.matinf.uj.edu.pl/plan/)\
 Oraz zdalna transmisja.
 
-# Dokładny zakres tematyczny i więcej szczegółów wkrótce.
+## Chciałbyś trenować praktyczne sieci neuronowe? Na tym kursie znajdziesz potrzebne narzędzia!
+Organizujemy warsztaty, których celem jest przekazanie uczestnikom praktycznego know-how potrzebnego do pracy w realnym środowisku badawczym. Środowisko researchera ML w 2026 roku jest przepełnione nowymi i zaawansowanymi technologicznie rozwiązaniami – od narzędzi ekosystemu Linux, przez wyzwania związane z GPU, aż po wykorzystanie modeli typu SOTA (foundation models). Na tym kursie nauczysz się, jak efektywnie z nich korzystać.
+
+Omawiane tematy:
+- Podstawy systemu Linux, SLURM oraz techniki oszczędzania VRAM
+- PyTorch, inne biblioteki do ML oraz Git
+- Przegląd modeli fundamentalnych
+- Praca z dużymi modelami
