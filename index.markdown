@@ -37,3 +37,10 @@ dr hab. Przemysław Spurek, prof. UJ
 - Facebook: [facebook.com/nkrsiuj](https://www.facebook.com/nkrsiuj)
 - GitHub: [github.com/NKRSI](https://github.com/NKRSI)
 - LinkedIn: [linkedin.com/company/nkrsi](https://www.linkedin.com/company/nkrsi/)
+
+## Adres
+
+Wydział Matematyki i Informatyki UJ\
+[ul. prof. Stanisława Łojasiewicza 6](https://maps.app.goo.gl/9c5FJoRRUvzs4Jvc6)\
+30-348 Kraków\
+[Sala 1164](https://intra.matinf.uj.edu.pl/plan/)

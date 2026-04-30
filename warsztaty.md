@@ -29,7 +29,7 @@ permalink: /warsztaty/
 Cztery spotkania warsztatowe:
 - 05.05.2026, 16:15 (wtorek)
 - 06.05.2026, 16:15 (środa)
-- 12.05.2026, 16:15 (wtorek, wstępny termin)
+- 12.05.2026, 16:15 (wtorek)
 - 13.05.2026, 16:15 (środa, wstępny termin)\
 Prezentacje wybranych projektów: TBA.
 
