@@ -38,12 +38,23 @@ permalink: /warsztaty/
 Cztery spotkania warsztatowe:
 - 05.05.2026, 16:15 (wtorek)
   - Prowadzący: Tomasz Dądela
+  - Zaplanowane tematy:
+    - podstawy sieci neuronowych
+    - biblioteka PyTorch
 - 06.05.2026, 16:15 (środa)
     - Prowadzący: Filip Manijak
-- 12.05.2026, 16:15 (wtorek)
-    - Prowadzący: Grzegorz Wilczyński
+    - Zaplanowane tematy:
+      - Przegląd dostępnych modeli "State of the Art"
+      - Praca z literaturą naukową
 - 13.05.2026, 16:15 (środa, wstępny termin)
+    - Prowadzący: Grzegorz Wilczyński
+    - Zaplanowane tematy:
+      - Trening i inferencja z wykorzystaniem pretrenowanych modeli
+      - Praca na zewnętrznych serwerach
+- 14.05.2026, 16:15 (czwartek, wstępny termin)
   - Prowadzący: TBA
+    - Zaplanowane tematy:
+      - Fine-tuning i inferencja modeli dostępnych poprzez API.
 
 Prezentacje wybranych projektów: TBA.
 
