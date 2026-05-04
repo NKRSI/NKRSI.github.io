@@ -8,7 +8,7 @@ permalink: /warsztaty/
 
 ### Jak wziąć udział w warsztatach zdalnie?
 1. Wypełnij powyższy formularz zapisów.
-2. Prześlij wypełniony formularz RODO na adresy: wydarzenia@inuni.org.pl i nkrsi@uj.edu.pl (jedna wiadomość z dwoma adresami), o tytule: "\[Zapisy warsztaty ML\]\[IMIĘ NAZWISKO NICK_DISCORD\]". Formularz dostępny jest [tutaj](/attachment/warsztaty_ml_rodo.pdf).
+2. Prześlij podpisany formularz RODO na adresy: wydarzenia@inuni.org.pl i nkrsi@uj.edu.pl (jedna wiadomość z dwoma adresami), o tytule: "\[Zapisy warsztaty ML\]\[IMIĘ NAZWISKO NICK_DISCORD\]". Formularz dostępny jest [tutaj](/attachment/warsztaty_ml_rodo.pdf).
 3. Dołącz do [serwera Discord na którym będą transmitowane warsztaty](https://discord.gg/TD4UbACS7p).
 
 ### Jak wziąć udział w warsztatach na miejscu?
