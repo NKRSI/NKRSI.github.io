@@ -15,8 +15,6 @@ permalink: /warsztaty/
 1. Wypełnij powyższy formularz zapisów.
 2. Przyjdź na spotkanie. (informacje jak dotrzeć – poniżej)
 
-![Plakat warsztaty](/img/warsztaty_ml.jpg)
-
 [//]: # (## O warsztatach)
 
 [//]: # (Warsztaty NKRSI to praktyczne zajęcia, podczas których uczestnicy realizują konkretne zadania techniczne krok po kroku.)
@@ -71,3 +69,5 @@ Omawiane tematy:
 - PyTorch, inne biblioteki do ML oraz Git
 - Przegląd modeli fundamentalnych
 - Praca z dużymi modelami
+
+![Plakat warsztaty](/img/warsztaty_ml.jpg)
