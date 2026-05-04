@@ -6,6 +6,15 @@ permalink: /warsztaty/
 # Warsztaty
 ### Zapisy trwają! [Wypełnij formularz zgłoszeniowy](https://forms.gle/sx4b7nyDvVAsRhaa8)
 
+### Jak wziąć udział w warsztatach zdalnie?
+1. Wypełnij powyższy formularz zapisów.
+2. Prześlij wypełniony formularz RODO na adresy: wydarzenia@inuni.org.pl i nkrsi@uj.edu.pl (jedna wiadomość z dwoma adresami), o tytule: "\[Zapisy warsztaty ML\]\[IMIĘ NAZWISKO NICK_DISCORD\]". Formularz dostępny jest [tutaj](/attachment/warsztaty_ml_rodo.pdf).
+3. Dołącz do [serwera Discord na którym będą transmitowane warsztaty](https://discord.gg/TD4UbACS7p).
+
+### Jak wziąć udział w warsztatach na miejscu?
+1. Wypełnij powyższy formularz zapisów.
+2. Przyjdź na spotkanie. (informacje jak dotrzeć – poniżej)
+
 ![Plakat warsztaty](/img/warsztaty_ml.jpg)
 
 [//]: # (## O warsztatach)
@@ -28,9 +37,14 @@ permalink: /warsztaty/
 ## Harmonogram
 Cztery spotkania warsztatowe:
 - 05.05.2026, 16:15 (wtorek)
+  - Prowadzący: Tomasz Dądela
 - 06.05.2026, 16:15 (środa)
+    - Prowadzący: Filip Manijak
 - 12.05.2026, 16:15 (wtorek)
-- 13.05.2026, 16:15 (środa, wstępny termin)\
+    - Prowadzący: Grzegorz Wilczyński
+- 13.05.2026, 16:15 (środa, wstępny termin)
+  - Prowadzący: TBA
+
 Prezentacje wybranych projektów: TBA.
 
 ## Miejsce
