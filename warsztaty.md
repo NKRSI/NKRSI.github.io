@@ -43,8 +43,9 @@ Cztery spotkania warsztatowe:
 - 06.05.2026, 16:15 (środa)
     - Prowadzący: Filip Manijak
     - Zaplanowane tematy:
-      - Przegląd dostępnych modeli "State of the Art"
+      - Przegląd i praca z dostępnymi modelami "State of the Art"
       - Praca z literaturą naukową
+      - Dużo praktyki
 - 13.05.2026, 16:15 (środa, wstępny termin)
     - Prowadzący: Grzegorz Wilczyński
     - Zaplanowane tematy:
@@ -59,7 +60,7 @@ Prezentacje wybranych projektów: TBA.
 
 ## Miejsce
 [Wydział Matematyki i Informatyki Uniwersytetu Jagiellońskiego](https://maps.app.goo.gl/kyJnv3GjxGEu9CCm6)\
-[Siedziba NKRSI – Sala 1164](https://intra.matinf.uj.edu.pl/plan/)\
+[Siedziba NKRSI – Sala 1093](https://intra.matinf.uj.edu.pl/plan/)\
 Oraz zdalna transmisja.
 
 ## Chciałbyś trenować praktyczne sieci neuronowe? Na tym kursie znajdziesz potrzebne narzędzia!
