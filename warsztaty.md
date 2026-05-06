@@ -42,6 +42,7 @@ Cztery spotkania warsztatowe:
     - biblioteka PyTorch
 - 06.05.2026, 16:15 (środa)
     - Prowadzący: Filip Manijak
+    - Materiały dostępne [tutaj](https://docs.google.com/document/d/1KtTaog1_CSFUdx1dvZ7neq-C8LKWp_aUlPymLb0T7sI/edit?usp=sharing).
     - Zaplanowane tematy:
       - Przegląd i praca z dostępnymi modelami "State of the Art"
       - Praca z literaturą naukową
