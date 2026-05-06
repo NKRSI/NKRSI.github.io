@@ -12,7 +12,7 @@ Seminarium NKRSI to cykliczne spotkania, na których omawiamy aktualne tematy z 
 ### Praca w IT w Polsce i za granicą - różne ścieżki, różne doświadczenia
 **Prelegenci:** [Małgorzata Dymek-Jaremko](https://www.linkedin.com/in/malgorzata-dymek-jaremko/), [Hubert Dymek-Jaremko](https://www.linkedin.com/in/hubert-jaremko/)\
 **Data:** 15.05.2026 (piątek)\
-**Godzina:** zostanie ogłoszona\
+**Godzina:** 16:00\
 **Miejsce:** [sala 1164](https://intra.matinf.uj.edu.pl/plan/), [WMII UJ](https://maps.app.goo.gl/9c5FJoRRUvzs4Jvc6)
 
 Spotkanie będzie miało formę otwartej rozmowy o realiach pracy w branży technologicznej:
@@ -21,6 +21,7 @@ Spotkanie będzie miało formę otwartej rozmowy o realiach pracy w branży tech
 - wnioskach związanych z emigracją i rozwojem kariery.
 
 Po części głównej planujemy czas na swobodną dyskusję i pytania uczestników.
+![Plakat warsztaty](/img/seminarium_kariera.png)
 
 ---
 
