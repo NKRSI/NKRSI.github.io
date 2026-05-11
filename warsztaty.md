@@ -47,12 +47,12 @@ Cztery spotkania warsztatowe:
       - Przegląd i praca z dostępnymi modelami "State of the Art"
       - Praca z literaturą naukową
       - Dużo praktyki
-- 13.05.2026, 16:15 (środa, wstępny termin)
+- 14.05.2026, 16:15 (czwartek)
     - Prowadzący: Grzegorz Wilczyński
     - Zaplanowane tematy:
       - Trening i inferencja z wykorzystaniem pretrenowanych modeli
       - Praca na zewnętrznych serwerach
-- 14.05.2026, 16:15 (czwartek, wstępny termin)
+- 19.05.2026, 16:15 (wtorek, wstępny termin)
   - Prowadzący: TBA
     - Zaplanowane tematy:
       - Fine-tuning i inferencja modeli dostępnych poprzez API.
