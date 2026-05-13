@@ -20,7 +20,7 @@ NKRSI to studenckie kolo naukowe Uniwersytetu Jagiellońskiego, które łączy r
 Zapraszamy osoby początkujące i zaawansowane. Jeśli chcesz się uczyć, tworzyć i pracować zespołowo, jesteś we właściwym miejscu.
 
 ## Zarząd koła
-- Tomasz Dądela (prezes)
+- [Tomasz Dądela](https://www.linkedin.com/in/tdadela/) (prezes)
 - Konrad Masztalerz
 - Dominik Matuszek
 

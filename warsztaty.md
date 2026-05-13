@@ -35,27 +35,27 @@ permalink: /warsztaty/
 ## Harmonogram
 Cztery spotkania warsztatowe:
 - 05.05.2026, 16:15 (wtorek)
-  - Prowadzący: Tomasz Dądela
+  - Prowadzący: [Tomasz Dądela](https://www.linkedin.com/in/tdadela/)
   - Notebook dostępny [tutaj](https://colab.research.google.com/drive/1A5QiFxXWcde60p6ahggQV3x7m1RTFoNN?usp=sharing).
   - Zaplanowane tematy:
     - podstawy sieci neuronowych
     - biblioteka PyTorch
 - 06.05.2026, 16:15 (środa)
-    - Prowadzący: Filip Manijak
+    - Prowadzący: [Filip Manijak](https://www.linkedin.com/in/filip-manijak-7a8051277/)
     - Materiały dostępne [tutaj](https://docs.google.com/document/d/1KtTaog1_CSFUdx1dvZ7neq-C8LKWp_aUlPymLb0T7sI/edit?usp=sharing).
     - Zaplanowane tematy:
       - Przegląd i praca z dostępnymi modelami "State of the Art"
       - Praca z literaturą naukową
-      - Dużo praktyki
 - 14.05.2026, 16:15 (czwartek)
-    - Prowadzący: Grzegorz Wilczyński
+    - Prowadzący: [Grzegorz Wilczyński](https://www.linkedin.com/in/gwilczynski95/)
     - Zaplanowane tematy:
       - Trening i inferencja z wykorzystaniem pretrenowanych modeli
       - Praca na zewnętrznych serwerach
 - 19.05.2026, 16:15 (wtorek)
-  - Prowadzący: Rafał Tobiasz
+  - Prowadzący: [Rafał Tobiasz](https://www.linkedin.com/in/rafal-tobiasz/)
     - Zaplanowane tematy:
-      - Fine-tuning i inferencja modeli dostępnych poprzez API.
+      - Jak wygląda codzienny workflow pracy nad modelami ML — eksperymenty, debugging i organizacja projektów. 
+      - Narzędzia wspomagające pracę researchera ML: zdalne uruchamianie eksperymentów, monitoring i wizualizacja wyników.
 
 Prezentacje wybranych projektów: TBA.
 
@@ -66,11 +66,5 @@ Oraz zdalna transmisja.
 
 ## Chciałbyś trenować praktyczne sieci neuronowe? Na tym kursie znajdziesz potrzebne narzędzia!
 Organizujemy warsztaty, których celem jest przekazanie uczestnikom praktycznego know-how potrzebnego do pracy w realnym środowisku badawczym. Środowisko researchera ML w 2026 roku jest przepełnione nowymi i zaawansowanymi technologicznie rozwiązaniami – od narzędzi ekosystemu Linux, przez wyzwania związane z GPU, aż po wykorzystanie modeli typu SOTA (foundation models). Na tym kursie nauczysz się, jak efektywnie z nich korzystać.
-
-Omawiane tematy:
-- Podstawy systemu Linux, SLURM oraz techniki oszczędzania VRAM
-- PyTorch, inne biblioteki do ML oraz Git
-- Przegląd modeli fundamentalnych
-- Praca z dużymi modelami
 
 ![Plakat warsztaty](/img/warsztaty_ml.jpg)
