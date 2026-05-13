@@ -3,7 +3,10 @@ layout: default
 title: Warsztaty
 permalink: /warsztaty/
 ---
-# Warsztaty
+# Warsztaty uczenia maszynowego
+## Chciałbyś trenować praktyczne sieci neuronowe? Na tym kursie znajdziesz potrzebne narzędzia!
+Organizujemy warsztaty, których celem jest przekazanie uczestnikom praktycznego know-how potrzebnego do pracy w realnym środowisku badawczym. Środowisko researchera ML w 2026 roku jest przepełnione nowymi i zaawansowanymi technologicznie rozwiązaniami – od narzędzi ekosystemu Linux, przez wyzwania związane z GPU, aż po wykorzystanie modeli typu SOTA (foundation models). Na tym kursie nauczysz się, jak efektywnie z nich korzystać.
+
 ### Zapisy trwają! [Wypełnij formularz zgłoszeniowy](https://forms.gle/sx4b7nyDvVAsRhaa8)
 
 ### Jak wziąć udział w warsztatach zdalnie?
@@ -14,23 +17,6 @@ permalink: /warsztaty/
 ### Jak wziąć udział w warsztatach na miejscu?
 1. Wypełnij powyższy formularz zapisów.
 2. Przyjdź na spotkanie. (informacje jak dotrzeć – poniżej)
-
-[//]: # (## O warsztatach)
-
-[//]: # (Warsztaty NKRSI to praktyczne zajęcia, podczas których uczestnicy realizują konkretne zadania techniczne krok po kroku.)
-
-[//]: # ()
-[//]: # (## Zakres tematyczny)
-
-[//]: # (- podstawy robotyki i elektroniki)
-
-[//]: # (- programowanie mikro kontrolerów)
-
-[//]: # (- Python i narzędzia AI)
-
-[//]: # (- praca z danymi i wizualizacja wyników)
-
-[//]: # (- workflow projektowy: Git, code review, testy)
 
 ## Harmonogram
 Cztery spotkania warsztatowe:
@@ -63,8 +49,5 @@ Prezentacje wybranych projektów: TBA.
 [Wydział Matematyki i Informatyki Uniwersytetu Jagiellońskiego](https://maps.app.goo.gl/kyJnv3GjxGEu9CCm6)\
 [Sala 1093](https://intra.matinf.uj.edu.pl/plan/)\
 Oraz zdalna transmisja.
-
-## Chciałbyś trenować praktyczne sieci neuronowe? Na tym kursie znajdziesz potrzebne narzędzia!
-Organizujemy warsztaty, których celem jest przekazanie uczestnikom praktycznego know-how potrzebnego do pracy w realnym środowisku badawczym. Środowisko researchera ML w 2026 roku jest przepełnione nowymi i zaawansowanymi technologicznie rozwiązaniami – od narzędzi ekosystemu Linux, przez wyzwania związane z GPU, aż po wykorzystanie modeli typu SOTA (foundation models). Na tym kursie nauczysz się, jak efektywnie z nich korzystać.
 
 ![Plakat warsztaty](/img/warsztaty_ml.jpg)
