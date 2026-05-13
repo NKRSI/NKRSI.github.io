@@ -52,8 +52,8 @@ Cztery spotkania warsztatowe:
     - Zaplanowane tematy:
       - Trening i inferencja z wykorzystaniem pretrenowanych modeli
       - Praca na zewnętrznych serwerach
-- 19.05.2026, 16:15 (wtorek, wstępny termin)
-  - Prowadzący: TBA
+- 19.05.2026, 16:15 (wtorek)
+  - Prowadzący: Rafał Tobiasz
     - Zaplanowane tematy:
       - Fine-tuning i inferencja modeli dostępnych poprzez API.
 
