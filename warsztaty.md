@@ -36,6 +36,7 @@ Cztery spotkania warsztatowe:
     - Prowadzący: [Grzegorz Wilczyński](https://www.linkedin.com/in/gwilczynski95/)
     - Materiały:
       - [notebook](https://colab.research.google.com/drive/1StT8UAklpEylOybvzkpWWD91C0YRaj24?usp=sharing)
+      - [Ankieta po zajęiach](https://forms.office.com/e/QfWiXSqvst)
     - Zaplanowane tematy:
       - Trening i inferencja z wykorzystaniem pretrenowanych modeli
       - Praca na zewnętrznych serwerach
