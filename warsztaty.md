@@ -34,6 +34,8 @@ Cztery spotkania warsztatowe:
       - Praca z literaturą naukową
 - 14.05.2026, 16:15 (czwartek)
     - Prowadzący: [Grzegorz Wilczyński](https://www.linkedin.com/in/gwilczynski95/)
+    - Materiały:
+      - [notebook](https://colab.research.google.com/drive/1StT8UAklpEylOybvzkpWWD91C0YRaj24?usp=sharing)
     - Zaplanowane tematy:
       - Trening i inferencja z wykorzystaniem pretrenowanych modeli
       - Praca na zewnętrznych serwerach
