@@ -42,8 +42,10 @@ Cztery spotkania warsztatowe:
     - Zaplanowane tematy:
       - Jak wygląda codzienny workflow pracy nad modelami ML — eksperymenty, debugging i organizacja projektów. 
       - Narzędzia wspomagające pracę researchera ML: zdalne uruchamianie eksperymentów, monitoring i wizualizacja wyników.
-
-Prezentacje wybranych projektów: TBA.
+- 27.05.2026, 16:15 (środa)
+    - Prowadzący: [Filip Manijak](https://www.linkedin.com/in/filip-manijak-7a8051277/)
+    - Zaplanowane tematy:
+        - Large language models
 
 ## Miejsce
 [Wydział Matematyki i Informatyki Uniwersytetu Jagiellońskiego](https://maps.app.goo.gl/kyJnv3GjxGEu9CCm6)\
