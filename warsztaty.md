@@ -42,9 +42,11 @@ Cztery spotkania warsztatowe:
       - Praca na zewnętrznych serwerach
 - 19.05.2026, 16:15 (wtorek)
   - Prowadzący: [Rafał Tobiasz](https://www.linkedin.com/in/rafal-tobiasz/)
-    - Zaplanowane tematy:
-      - Jak wygląda codzienny workflow pracy nad modelami ML — eksperymenty, debugging i organizacja projektów. 
-      - Narzędzia wspomagające pracę researchera ML: zdalne uruchamianie eksperymentów, monitoring i wizualizacja wyników.
+  - Materiały:
+    - [Repo Github](https://github.com/rafaltobiasz/ml-workflow-workshop)
+  - Zaplanowane tematy:
+    - Jak wygląda codzienny workflow pracy nad modelami ML — eksperymenty, debugging i organizacja projektów. 
+    - Narzędzia wspomagające pracę researchera ML: zdalne uruchamianie eksperymentów, monitoring i wizualizacja wyników.
 - 27.05.2026, 16:15 (środa)
     - Prowadzący: [Filip Manijak](https://www.linkedin.com/in/filip-manijak-7a8051277/)
     - Zaplanowane tematy:
