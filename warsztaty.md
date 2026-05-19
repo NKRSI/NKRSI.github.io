@@ -43,7 +43,9 @@ Cztery spotkania warsztatowe:
 - 19.05.2026, 16:15 (wtorek)
   - Prowadzący: [Rafał Tobiasz](https://www.linkedin.com/in/rafal-tobiasz/)
   - Materiały:
+    - [Ankieta przed zajęciami](https://forms.office.com/e/96mt4skdkJ)
     - [Repo Github](https://github.com/rafaltobiasz/ml-workflow-workshop)
+    - [Ankieta po zajęciach](https://forms.office.com/e/2rXjLziT9E)
   - Zaplanowane tematy:
     - Jak wygląda codzienny workflow pracy nad modelami ML — eksperymenty, debugging i organizacja projektów. 
     - Narzędzia wspomagające pracę researchera ML: zdalne uruchamianie eksperymentów, monitoring i wizualizacja wyników.
