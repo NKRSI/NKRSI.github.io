@@ -6,6 +6,12 @@ permalink: /warsztaty/
 # Warsztaty uczenia maszynowego
 ## Chciałbyś trenować praktyczne sieci neuronowe? Na tym kursie znajdziesz potrzebne narzędzia!
 Organizujemy warsztaty, których celem jest przekazanie uczestnikom praktycznego know-how potrzebnego do pracy w realnym środowisku badawczym. Środowisko researchera ML w 2026 roku jest przepełnione nowymi i zaawansowanymi technologicznie rozwiązaniami – od narzędzi ekosystemu Linux, przez wyzwania związane z GPU, aż po wykorzystanie modeli typu SOTA (foundation models). Na tym kursie nauczysz się, jak efektywnie z nich korzystać.
+## Najbliższe spotkanie
+- 27.05.2026, 16:15 (środa)
+    - Prowadzący: [Filip Manijak](https://www.linkedin.com/in/filip-manijak-7a8051277/)
+    - Zaplanowane tematy:
+        - Large language models
+        - Podczas seminarium nauczymy się, jak wykorzystywać modele LLM do budowy realnie działających projektów. W praktyce poznamy proste protokoły MCP oraz nowoczesne narzędzia AI do generowania i rozwijania kodu, dzięki którym szybciej przejdziemy od pomysłu do działającej aplikacji.
 
 ### Zapisy trwają! [Wypełnij formularz zgłoszeniowy](https://forms.gle/sx4b7nyDvVAsRhaa8)
 
