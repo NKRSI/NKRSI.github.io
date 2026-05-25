@@ -53,6 +53,7 @@ Cztery spotkania warsztatowe:
     - Prowadzący: [Filip Manijak](https://www.linkedin.com/in/filip-manijak-7a8051277/)
     - Zaplanowane tematy:
         - Large language models
+        - Podczas seminarium nauczymy się, jak wykorzystywać modele LLM do budowy realnie działających projektów. W praktyce poznamy proste protokoły MCP oraz nowoczesne narzędzia AI do generowania i rozwijania kodu, dzięki którym szybciej przejdziemy od pomysłu do działającej aplikacji.
 
 ## Miejsce
 [Wydział Matematyki i Informatyki Uniwersytetu Jagiellońskiego](https://maps.app.goo.gl/kyJnv3GjxGEu9CCm6)\
