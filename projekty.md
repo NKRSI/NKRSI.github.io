@@ -6,11 +6,17 @@ permalink: /projekty/
 
 # Projekty
 
-Dołącz do projektu studenckiego na Uniwersytecie Jagiellońskim.
+Dołącz do projektów studenckich!
 
-Koło Naukowe Robotyki i Sztucznej Inteligencji UJ (NKRSI) wraz z dr. hab. Przemysławem Spurkiem i zespołem E3DGSAR First Team zapraszają studentów do udziału w ekscytującym nowym projekcie na Wydziale Matematyki i Informatyki UJ (WMII UJ).
+## Najbliższe spotkanie Sekcji Robotyki
 
-## Cele projektu
+**Wtorek, 20 października 2026, godz. 16:00 · sala 1164 (siedziba koła)**
+
+Robotyka, AI i frajda z tworzenia. Przyjdź na spotkanie Sekcji Robotyki NKRSI UJ i poznaj projekty, które możesz rozwijać w studenckim zespole ze wsparciem pracowników UJ. Sprawdź, co możemy zbudować razem.
+
+Masz pomysł? Zbudujmy coś razem!
+
+## Rekonstrukcja 3D WMII UJ
 Projekt obejmuje trzy główne cele:
 
 1. Wirtualny spacer po WMII UJ  
