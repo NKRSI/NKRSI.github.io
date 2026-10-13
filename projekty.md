@@ -16,6 +16,8 @@ Robotyka, AI i frajda z tworzenia. Przyjdź na spotkanie Sekcji Robotyki NKRSI U
 
 Masz pomysł? Zbudujmy coś razem!
 
+![Plakat projekty](/img/projects.png)
+
 ## Rekonstrukcja 3D WMII UJ
 Projekt obejmuje trzy główne cele:
 
