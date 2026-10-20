@@ -32,6 +32,12 @@ facebook_username: nkrsiuj
 github_username: NKRSI
 translate_langs: []
 
+# Discord invite — default (empty) value.
+# On GitHub Pages builds this is overridden by _config_env.yml,
+# generated from the DISCORD_INVITE_URL repository variable (see .github/workflows/jekyll.yml).
+# Locally: bundle exec jekyll serve --config _config.yml,_config_env.yml
+discord_url: ""
+
 # Build settings
 plugins:
   - jekyll-feed

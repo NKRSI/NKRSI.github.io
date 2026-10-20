@@ -37,6 +37,7 @@ dr hab. Przemysław Spurek, prof. UJ
 - Facebook: [facebook.com/nkrsiuj](https://www.facebook.com/nkrsiuj)
 - GitHub: [github.com/NKRSI](https://github.com/NKRSI)
 - LinkedIn: [linkedin.com/company/nkrsi](https://www.linkedin.com/company/nkrsi/)
+- Discord: [dołącz do naszego Discorda!]({{ "/dc/" | relative_url }})
 
 ## Adres
 
