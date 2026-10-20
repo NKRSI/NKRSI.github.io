@@ -12,8 +12,17 @@ Dołącz do projektów studenckich!
 
 **Wtorek, 20 października 2026, godz. 16:00 · sala 1164 (siedziba koła)**
 
-Robotyka, AI i frajda z tworzenia. Przyjdź na spotkanie Sekcji Robotyki NKRSI UJ i poznaj projekty, które możesz rozwijać w studenckim zespole ze wsparciem pracowników UJ. Sprawdź, co możemy zbudować razem.
+Zapraszamy na spotkanie inauguracyjne! Chcemy Wam przedstawić konkretne projekty, w które warto się zaangażować.
 
+Dwie główne grupy tematów:
+
+**Robotyka (i Uczenie Maszynowe)**
+Mikołaj Zieliński opowie o projektach badawczych dotyczących uczenia robotów, w szczególności opartych na środowisku LeRobot.
+
+**Uczenie Maszynowe**
+Opiekun naszego koła Przemysław Spurek przedstawi propozycje projektów z zakresu AI. Głównym punktem tej części będą zagadnienia związane m.in. z modelami wizyjnymi, wizualizacjami, Gaussian Splattingiem.
+
+Spotkanie ma charakter roboczy. To dobra okazja, aby posłuchać o szczegółach technologicznych, zadać pytania i zdecydować, do którego projektu chcecie dołączyć. Zapraszamy zarówno osoby z doświadczeniem, jak i te, które dopiero chcą zacząć działać naukowo w tych obszarach.
 Masz pomysł? Zbudujmy coś razem!
 
 ![Plakat projekty](/img/projects.png)
