@@ -4,20 +4,15 @@ title: Projekty
 permalink: /projekty/
 ---
 
-# Projekty
-
-Dołącz do projektów studenckich!
-
 ## Najbliższe spotkanie Sekcji Robotyki
 
-**Wtorek, 20 października 2026, godz. 16:00 · sala 1164 (siedziba koła)**
-
-Zapraszamy na spotkanie inauguracyjne! Chcemy Wam przedstawić konkretne projekty, w które warto się zaangażować.
+**Środa, 28 października 2026, godz. 17:15 · sala 1164 (siedziba koła)**
 
 Dwie główne grupy tematów:
 
-**Robotyka (i Uczenie Maszynowe)**
-Mikołaj Zieliński opowie o projektach badawczych dotyczących uczenia robotów, w szczególności opartych na środowisku LeRobot.
+**Robotyka (i Uczenie Maszynowe)** – Mikołaj Zieliński
+- Sterowanie robotycznym ramieniem za pomocą modelu Vision–language–action model w środowisku LeRobot.
+- Optymalizacja działania robota używanego do przeprowadzania reakcji chemicznych.
 
 **Uczenie Maszynowe**
 Opiekun naszego koła Przemysław Spurek przedstawi propozycje projektów z zakresu AI. Głównym punktem tej części będą zagadnienia związane m.in. z modelami wizyjnymi, wizualizacjami, Gaussian Splattingiem.
