@@ -4,6 +4,9 @@
     filter: brightness(0) invert(1);
   }
 </style>
+{%- unless site.indexing %}
+<meta name="robots" content="noindex, nofollow">
+{%- endunless %}
 {%- if site.redirect_to and site.redirect_to != "" %}
 {%- assign redirect_base = site.redirect_to %}
 <meta http-equiv="refresh" content="0; url={{ redirect_base }}{{ page.url }}">
