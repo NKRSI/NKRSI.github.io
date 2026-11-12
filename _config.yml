@@ -38,6 +38,11 @@ translate_langs: []
 # Locally: bundle exec jekyll serve --config _config.yml,_config_env.yml
 discord_url: ""
 
+# Redirect every page to this domain (empty = no redirect).
+# Set only in the GitHub Pages build (see .github/workflows/jekyll.yml),
+# so the old domain nkr.si forwards to the Cloudflare-hosted nkrsi.io.
+redirect_to: ""
+
 # Build settings
 plugins:
   - jekyll-feed
@@ -54,7 +59,6 @@ theme: jekyll-theme-yat
 #
 exclude:
   - wrangler.jsonc
-  - src
 # Default list (always excluded):
 #   - .sass-cache/
 #   - .jekyll-cache/

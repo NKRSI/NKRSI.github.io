@@ -49,6 +49,8 @@ jobs:
           DISCORD_INVITE_URL: ${{ vars.DISCORD_INVITE_URL }}
         run: |
           printf 'discord_url: "%s"\n' "${DISCORD_INVITE_URL}" > _config_env.yml
+          # nkr.si (GitHub Pages) only forwards visitors to nkrsi.io (Cloudflare Workers)
+          printf 'redirect_to: "https://nkrsi.io"\n' >> _config_env.yml
           cat _config_env.yml
       - name: Build with Jekyll
         # Outputs to the './_site' directory by default
