@@ -1,0 +1,20 @@
+// Cloudflare Workers — static deploy (Workers Static Assets, no Worker script).
+// Build: bundle exec jekyll build   → ./_site
+// Deploy: npx wrangler deploy
+{
+  "name": "nkrsi-landing",
+  "compatibility_date": "2026-11-01",
+  "assets": {
+    "directory": "./_site",
+    // Serve the Jekyll-generated 404.html for missing paths
+    "not_found_handling": "404-page",
+    // /projekty -> /projekty/ (Jekyll permalink style)
+    "html_handling": "auto-trailing-slash"
+  }
+  // Custom domain (the zone nkr.si must be on Cloudflare). Enable once
+  // you are ready to move the domain off GitHub Pages:
+  // "routes": [
+  //   { "pattern": "nkr.si", "custom_domain": true },
+  //   { "pattern": "www.nkr.si", "custom_domain": true }
+  // ]
+}
