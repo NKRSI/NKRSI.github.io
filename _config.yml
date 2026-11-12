@@ -52,7 +52,10 @@ theme: jekyll-theme-yat
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-# exclude:
+exclude:
+  - wrangler.jsonc
+  - src
+# Default list (always excluded):
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/

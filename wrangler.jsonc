@@ -1,0 +1,26 @@
+// Cloudflare Workers — static deploy (Workers Static Assets).
+// The Worker script only redirects nkr.si -> nkrsi.io; everything else is static.
+// Build: bundle exec jekyll build   → ./_site
+// Deploy: npx wrangler deploy
+{
+  "name": "nkrsi-landing",
+  "main": "src/worker.js",
+  "compatibility_date": "2026-11-01",
+  "assets": {
+    "directory": "./_site",
+    "binding": "ASSETS",
+    // Run the Worker before asset matching so the host redirect applies to every path
+    "run_worker_first": true,
+    // Serve the Jekyll-generated 404.html for missing paths
+    "not_found_handling": "404-page",
+    // /projekty -> /projekty/ (Jekyll permalink style)
+    "html_handling": "auto-trailing-slash"
+  }
+  // Custom domains (both zones must be on Cloudflare in this account).
+  // Enable once you are ready to move the domains off GitHub Pages:
+  // "routes": [
+  //   { "pattern": "nkrsi.io", "custom_domain": true },
+  //   { "pattern": "nkr.si", "custom_domain": true },
+  //   { "pattern": "www.nkr.si", "custom_domain": true }
+  // ]
+}

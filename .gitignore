@@ -6,3 +6,4 @@ vendor
 Gemfile.lock
 .idea
 _config_env.yml
+.wrangler
