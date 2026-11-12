@@ -54,6 +54,7 @@ theme: jekyll-theme-yat
 #
 exclude:
   - wrangler.jsonc
+  - src
 # Default list (always excluded):
 #   - .sass-cache/
 #   - .jekyll-cache/
