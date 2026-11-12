@@ -3,8 +3,9 @@
 #   INDEXING=true  -> nkrsi.io build (Cloudflare Workers Builds variable):
 #                     robots.txt allows crawling and points to sitemap.xml.
 #   unset / other  -> nkr.si build (GitHub Pages) and local builds:
-#                     robots.txt disallows everything, pages get
-#                     <meta name="robots" content="noindex">, no sitemap.xml.
+#                     pages get <meta name="robots" content="noindex, nofollow">
+#                     and no sitemap.xml. robots.txt still allows crawling so
+#                     search engines can see the noindex and the redirect.
 #
 # Exposed to templates as site.indexing (boolean).
 
