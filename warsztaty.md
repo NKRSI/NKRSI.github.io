@@ -41,7 +41,6 @@ Organizujemy warsztaty, których celem jest przekazanie uczestnikom praktycznego
 ## Harmonogram
 Cztery spotkania warsztatowe:
 - 05.05.2026, 16:15 (wtorek)
-  - Prowadzący: [Tomasz Dądela](https://www.linkedin.com/in/tdadela/)
   - Notebook dostępny [tutaj](https://colab.research.google.com/drive/1A5QiFxXWcde60p6ahggQV3x7m1RTFoNN?usp=sharing).
   - Zaplanowane tematy:
     - podstawy sieci neuronowych

@@ -20,14 +20,14 @@ NKRSI to studenckie kolo naukowe Uniwersytetu Jagiellońskiego, które łączy r
 Zapraszamy osoby początkujące i zaawansowane. Jeśli chcesz się uczyć, tworzyć i pracować zespołowo, jesteś we właściwym miejscu.
 
 ## Zarząd koła
-- [Tomasz Dądela](https://www.linkedin.com/in/tdadela/) (prezes)
-- Konrad Masztalerz
-- Dominik Matuszek
+- [Oliwier Polak](https://www.linkedin.com/in/oliwier-polak/) (prezes)
+- [Karol Dziekan](https://www.linkedin.com/in/karol-dziekan/)
+- [Karol Peszek](https://www.linkedin.com/in/karol-peszek/)
 
 ## Komisja rewizyjna:
 - Filip Manijak
-- Tomasz Kulis
-- Marcin Dąbrowski
+- Wiktor Matuszek
+- Maria Bagińska
 
 ## Opiekun Koła
 dr hab. Przemysław Spurek, prof. UJ
