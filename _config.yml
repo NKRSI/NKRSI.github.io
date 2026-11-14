@@ -20,7 +20,7 @@
 
 title: Naukowe Koło Robotyki i Sztucznej Inteligencji
 lang: pl
-favicon: /img/favicon.ico
+favicon: /img/logo-mark.svg  # header logo; browser tab icons: _includes/favicons.html
 email: nkrsi@uj.edu.pl
 description: >- # this means to ignore newlines until "baseurl:"
   Strona Koła Naukowego Robotyki i Sztucznej Inteligencji UJ (NKRSI):
